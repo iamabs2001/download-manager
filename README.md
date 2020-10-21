@@ -1,1 +1,6 @@
-Download Manager Library for Java
+# Download Manager Library for Java
+
+## Use
+``` Downloader d = new Downloader(url); ```
+
+
